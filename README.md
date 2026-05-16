@@ -52,6 +52,11 @@ Building scalable, cloud-ready software solutions that solve **real-world busine
 
 ---
 
+## Certifications
+- [AZ-900 – Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/EcibuMichael-7332/942D7958ABBE3118?sharingId=C479A63D460E6F46)
+- [MB-820 – Business Central Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/EcibuMichael-7332/DA280E8EE81FF614?sharingId)
+- [MB-800 – Business Central Functional Consultant Associate](https://learn.microsoft.com/api/credentials/share/en-us/EcibuMichael-7332/AEFA42073B47BF75?sharingId)
+
 ## 🌐 Connect with Me
 
 * LinkedIn: [https://www.linkedin.com/in/ecibu-michael-b53a862b2/](https://www.linkedin.com/in/ecibu-michael/)
