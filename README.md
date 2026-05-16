@@ -54,4 +54,4 @@ Building scalable, cloud-ready software solutions that solve **real-world busine
 
 ## 🌐 Connect with Me
 
-* LinkedIn: [https://www.linkedin.com/in/ecibu-michael-b53a862b2/](https://www.linkedin.com/in/ecibu-michael-b53a862b2/)
+* LinkedIn: [https://www.linkedin.com/in/ecibu-michael-b53a862b2/](https://www.linkedin.com/in/ecibu-michael/)
