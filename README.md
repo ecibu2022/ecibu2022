@@ -93,7 +93,7 @@ AL • Business Central • REST APIs • JSON • XML
 
 ---
 
-## 🚚 KIMS Logistics Integration
+## 🚚 KIMS Integration
 
 **Technologies**
 
