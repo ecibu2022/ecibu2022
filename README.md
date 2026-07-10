@@ -48,13 +48,13 @@ I build solutions using:
 
 # 🚀 Featured Projects
 
-## 🌍 Watoto Employee Self-Service Portal
+## 🌍 Employee Self-Service and Treasury Portal
 
 **Technologies**
 
-React • Node.js • GraphQL • Microsoft Dynamics 365 Business Central
+React • Vite • Tailwind CSS • Node.js • GraphQL • Microsoft Dynamics 365 Business Central
 
-- Employee self-service platform integrated with Business Central.
+- Employee self-service and treasury platform integrated with Business Central.
 - Built frontend interfaces and backend APIs.
 - Implemented GraphQL-based communication.
 
