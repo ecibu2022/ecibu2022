@@ -1,4 +1,3 @@
-```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:2563EB,100:1E3A8A&height=190&section=header&text=Ecibu%20Michael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Developer%20|%20Microsoft%20Dynamics%20365%20Business%20Central%20Developer%20|%20Java%20Spring%20Boot%20|%20React%20|%20Azure&descAlignY=58"/>
 
 <p align="center">
@@ -326,4 +325,3 @@ Technologies
 Building scalable enterprise software that solves real business problems.
 
 </p>
-```
