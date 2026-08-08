@@ -22,6 +22,8 @@ I work across **AL**, **OData**, **SOAP**, **REST**, integrations, RDLC reportin
 
 Currently at **Adroit Solutions Limited**, delivering BC solutions, ERP integrations, and client-facing demos for businesses and NGOs.
 
+🌐 **Portfolio:** [ecibu2022.github.io/my-portfolio](https://ecibu2022.github.io/my-portfolio/)
+
 ---
 
 ## Core Focus
