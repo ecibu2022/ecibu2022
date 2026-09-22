@@ -20,7 +20,9 @@ Microsoft Certified software developer based in **Kampala, Uganda**, building en
 
 I work across **AL**, **OData**, **SOAP**, **REST**, integrations, RDLC reporting, and modern web/mobile stacks including **React**, **Next.js**, **Node.js**, and **Spring Boot**.
 
-Currently at **Adroit Solutions Limited**, delivering BC solutions, ERP integrations, and client-facing demos for businesses and NGOs.
+At **Adroit Solutions Limited** (Jan 2024 – Present), I deliver BC solutions, ERP integrations, Hostinger web hosting, and client-facing demos for businesses and NGOs.
+
+At **Othware Limited** (Jun 2025 – Present), I work as a **Microsoft Dynamics 365 Business Central Developer** — AL customizations for business, manufacturing, and NGO clients, URA EFRIS for Ruko Establishments and Technovia Limited, Azure Dev servers, SSL certificates, and on-premises BC licenses.
 
 🌐 **Portfolio:** [ecibu2022.github.io/my-portfolio](https://ecibu2022.github.io/my-portfolio/)
 
@@ -33,14 +35,19 @@ Currently at **Adroit Solutions Limited**, delivering BC solutions, ERP integrat
 | **ERP** | Business Central development, customization, functional & technical consulting (MB-800 / MB-820) |
 | **Integrations** | URA EFRIS, KIMS, employee self-service portals, third-party API integrations |
 | **Full Stack** | React, Next.js, Node.js, Spring Boot, React Native, Android |
-| **Cloud & DevOps** | Azure VMs, app registrations, secrets, BC Online backups, Docker, CI/CD |
+| **Cloud & DevOps** | Azure VMs, app registrations, secrets, BC Online backups, Docker, CI/CD, Hostinger hosting |
 
 ---
 
 ## Featured Work
 
+### Jamainus Mobile App *(Aug 2026 – Present)*
+Built the Jamainus mobile application; currently **awaiting Play Store launch**.
+
+`React Native` `Android` `Mobile UI/UX`
+
 ### URA EFRIS Integration
-Contributed to Dynamics 365 BC integration with Uganda Revenue Authority EFRIS. Currently handle **maintenance, support**, and **URA-mandated updates**.
+Integrated Dynamics 365 BC with Uganda Revenue Authority EFRIS for **Ruko Establishments** and **Technovia Limited**. Currently handle **maintenance, support**, and **URA-mandated updates**.
 
 `Business Central` `AL` `REST` `SOAP` `OData` `JSON` `XML`
 
@@ -82,6 +89,7 @@ Healthcare app connecting doctors, patients, and biomedical engineers for medici
   <img src="https://img.shields.io/badge/REST_API-16A34A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OData-1D4ED8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SOAP-64748B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
 </p>
 
 ---
@@ -111,5 +119,6 @@ Healthcare app connecting doctors, patients, and biomedical engineers for medici
 <p align="center">
   <a href="mailto:michaelecibu@gmail.com">michaelecibu@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/ecibu-michael/">LinkedIn</a> ·
-  <a href="https://github.com/ecibu2022">GitHub</a>
+  <a href="https://github.com/ecibu2022">GitHub</a> ·
+  <a href="https://ecibu2022.github.io/my-portfolio/">Portfolio</a>
 </p>
