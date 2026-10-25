@@ -59,7 +59,7 @@ Integrated KIMS with Business Central for driver communication, leave management
 ### Employee Self-Service Portals *(2026)*
 Built portals for **Watoto** and **Vet Centre** clients, integrated with Dynamics 365 BC.
 
-- [Watoto Portal]([https://portal.watotochurch.com/)
+- [Watoto Portal](https://portal.watotochurch.com/)
 - [Vet Centre Portal](https://vetcenterselfservice.com/)
 
 `React` `Next.js` `Node.js` `TypeScript` `GraphQL` `Docker` `Tailwind CSS`
